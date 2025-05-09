@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattlePassV1/PassCommand.cs">
+    <Files>
+      <File FileName="BattlePassV1/Class1.cs" Line="128" Column="84" />
+      <File FileName="BattlePassV1/PassCommand.cs" Line="82" Column="18" />
+      <File FileName="BattlePassV1/PassConfiguration.cs" Line="27" Column="159" />
+      <File FileName="BattlePassV1/PassList.cs" Line="28" Column="53" />
+      <File FileName="BattlePassV1/PlayerInfo.cs" Line="21" Column="29" />
+      <File FileName="BattlePassV1/Delay.cs" Line="47" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattlePassV1" expanded="True" selected="True">
+            <Node name="BattlePassV1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
