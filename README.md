@@ -61,4 +61,4 @@ list.Add(new PassList(
 
 Player progress data is saved in the `BattlePass.txt` file in the server's root folder.
 
-**2021 created**
+**2023-2024 created**
