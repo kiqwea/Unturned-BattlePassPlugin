@@ -57,8 +57,26 @@ list.Add(new PassList(
 - Players receive a notification when reaching a new level
 - Rewards can only be received once
 
+
 ## Data Storage
 
 Player progress data is saved in the `BattlePass.txt` file in the server's root folder.
+
+
+
+
+### Preview
+
+
+
+https://github.com/user-attachments/assets/e1f0af2e-abdd-4eaf-b272-c570f5ef3414
+
+
+
+
+
+
+
+
 
 **2023-2024 created**
